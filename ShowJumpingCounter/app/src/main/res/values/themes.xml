@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ShowJumpingCounter" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#00E676</item>
+        <item name="colorPrimaryDark">#00E676</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="colorButtonNormal">#00E676</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
